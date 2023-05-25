@@ -4,10 +4,7 @@
   margin: 0;
   padding: 0;
 }
-body {  
-  font-family: "Roboto", sans-serif;
-
-  
+body {
   font-family: "Playfair Display", serif;
   background: rgb(235, 230, 230);
 }
@@ -29,11 +26,8 @@ menu ul {
   text-align-last: justify;
   font-size: 30px;
 } 
-
-
 menu ul li {
   margin: 25px 0;
-
   display: inline-block;
 }
 menu ul li a {
